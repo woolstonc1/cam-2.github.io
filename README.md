@@ -17,8 +17,6 @@
 
 <BR>
 
-All About Me!
-
 <p style="font-size: 40px; cursive;color:green;text-align:center;">All About Me!</p>
 
 <ul>
@@ -53,8 +51,6 @@ All About Me!
 <hr />
 
 <img src="cat!.HEIC" width="200" height="142">
-
-<img src=
 
 <br />
 
