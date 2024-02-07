@@ -3,8 +3,6 @@
 
 <head>
 
-<title></title>
-
 </head>
 
 <body style="background-color:lightpink;”>
