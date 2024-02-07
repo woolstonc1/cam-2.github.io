@@ -17,7 +17,7 @@
 
 <BR>
 
-<title>All About Me!</title>
+All About Me!
 
 <p style="font-size: 40px; cursive;color:green;text-align:center;">All About Me!</p>
 
